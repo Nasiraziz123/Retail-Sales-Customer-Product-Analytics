@@ -1,0 +1,15 @@
+# Temporary Office files
+~$*
+*.tmp
+*.bak
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Raw dataset and local data files
+Data/Analysis/*.xlsx
